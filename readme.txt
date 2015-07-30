@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable inder called stage.
 Git tracks changes of files.
 Create a new branch is quick and simple.
+Test --no-ff.
